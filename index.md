@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 个人简历
 
-You can use the [editor on GitHub](https://github.com/zdwls/zdwls.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 北京大学（2018.09 ~ 今）
+  - 计算机科学与技术方向本科生在读
+  - GPA 3.75 / 4.00 ，Rank 20%左右
 
-### Markdown
+### 科研项目
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 跨语言摘要。
+2. （合作项目）修辞分析。负责数据集构建、数据筛查、修辞分析等。同时开发的修辞标注软件拿到了软件著作权。
+3. （课程项目）无监督风格化古诗创作。复现清华“九歌”论文，课程项目获得第二名。
+4. （课程项目）微博文本分类。
+5. （课程项目）BooleanQ 问答数据集竞赛。利用roberta进行finetune，最终结果接近SOTA
 
-```markdown
-Syntax highlighted code block
+### 助教经历
 
-# Header 1
-## Header 2
-### Header 3
+1. 计算机系统导论（ICS）（2020.09 ~ 2021.01）
+   - 主讲教师：陈向群、孙广宇、刘先华、陆俊林、管雪涛
+   - 担任工作：助教
 
-- Bulleted
-- List
+### 个人荣誉
 
-1. Numbered
-2. List
+1. 北京大学校级三好学生 （2018 ~ 2019 学年）
+2. 北京大学校级三等奖学金 （2018 ~ 2019 学年）
+3. 北京大学校级学习优秀奖 （2019 ~ 2020 学年）
+4. 北京大学第17届“江泽涵杯”数学建模竞赛 三等奖 （2020年）
 
-**Bold** and _Italic_ and `Code` text
+### 其它杂项
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zdwls/zdwls.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 北京大学乒乓球协会 外联部部长（2019.09 ~ 2020.09） 
